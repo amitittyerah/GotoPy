@@ -1,7 +1,12 @@
 GotoPy
 ======
 
-Python utility to remember commands on MacOSX
+
+Python utility to remember commands on MacOSX. 
+
+### Warning
+There is a known issue with folders with spaces. 
+
 
 ### Installation
 ```python
