@@ -40,5 +40,12 @@ goto add /Users/username/Documents::cd::doc
 
 goto doc
 
+# List - shows all entries
+
+goto list
+
+# Flush - deletes existing entries
+
+goto flush
 
 ```
